@@ -3,7 +3,6 @@ certifi==2021.10.8
 Django==3.2.10
 django-cors-headers==3.10.1
 django-mongoengine==0.4.6
-djongo==1.3.6
 netifaces @ file:///C:/ci/netifaces_1622235409132/work
 psycopg2 @ file:///C:/ci/psycopg2_1612298766762/work
 pymongo==3.12.3
