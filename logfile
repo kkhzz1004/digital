@@ -1,0 +1,28 @@
+2021-12-14 04:15:42.414 KST [18284] LOG:  starting PostgreSQL 12.9, compiled by Visual C++ build 1916, 64-bit
+2021-12-14 04:15:42.430 KST [18284] LOG:  listening on IPv6 address "::1", port 5432
+2021-12-14 04:15:42.430 KST [18284] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-12-14 04:15:42.742 KST [20004] LOG:  database system was shut down at 2021-12-14 04:15:11 KST
+2021-12-14 04:15:42.798 KST [18284] LOG:  database system is ready to accept connections
+2021-12-14 04:15:47.668 KST [1276] FATAL:  role "django" does not exist
+2021-12-14 04:16:28.038 KST [2560] ERROR:  canceling statement due to user request
+2021-12-14 04:16:28.039 KST [22512] ERROR:  canceling statement due to user request
+2021-12-14 04:16:28.040 KST [18284] LOG:  received fast shutdown request
+2021-12-14 04:16:28.183 KST [22512] ERROR:  canceling statement due to user request
+2021-12-14 04:16:28.330 KST [18284] LOG:  aborting any active transactions
+2021-12-14 04:16:28.331 KST [22512] ERROR:  canceling statement due to user request
+2021-12-14 04:16:28.331 KST [18284] LOG:  background worker "logical replication launcher" (PID 2560) exited with exit code 1
+2021-12-14 04:16:28.353 KST [16088] LOG:  shutting down
+2021-12-14 04:16:28.604 KST [18284] LOG:  database system is shut down
+2021-12-14 04:16:51.514 KST [1908] LOG:  starting PostgreSQL 12.9, compiled by Visual C++ build 1916, 64-bit
+2021-12-14 04:16:51.523 KST [1908] LOG:  listening on IPv6 address "::1", port 5432
+2021-12-14 04:16:51.524 KST [1908] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-12-14 04:16:51.775 KST [11276] LOG:  database system was shut down at 2021-12-14 04:16:39 KST
+2021-12-14 04:16:51.831 KST [1908] LOG:  database system is ready to accept connections
+2021-12-14 04:16:56.279 KST [21876] FATAL:  role "django" does not exist
+2021-12-14 04:18:19.033 KST [11760] ERROR:  canceling statement due to user request
+2021-12-14 04:18:19.033 KST [15960] ERROR:  canceling statement due to user request
+2021-12-14 04:18:19.034 KST [1908] LOG:  received fast shutdown request
+2021-12-14 04:18:19.326 KST [1908] LOG:  aborting any active transactions
+2021-12-14 04:18:19.327 KST [1908] LOG:  background worker "logical replication launcher" (PID 11760) exited with exit code 1
+2021-12-14 04:18:19.344 KST [21684] LOG:  shutting down
+2021-12-14 04:18:19.484 KST [1908] LOG:  database system is shut down
